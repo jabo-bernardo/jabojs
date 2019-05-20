@@ -1,2 +1,4 @@
 theme: jekyll-theme-minimal
 title: Jabo JS
+show_downloads: true
+logo: icon.png
