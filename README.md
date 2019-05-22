@@ -8,11 +8,11 @@ See [Documentation](http://codejabo.ga)
 
 ### Creating Project
 
-- Open "Jabo JS Generator.jar" 
 > (Note: In order to run this you must have Java on your machine, To download this click [here](https://www.java.com/en/download/))
+- Open "Jabo JS Generator.jar" 
 - Fill in all the input boxes
 - Click "Generate Project"
 > It will open the directory of your choice
 And now you're ready to go!
 
-## Using [SUBLIME TEXT](https://www.sublimetext.com/3) is highly recommended
+> Using [SUBLIME TEXT](https://www.sublimetext.com/3) as your text editor is highly recommended
